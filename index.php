@@ -17,7 +17,7 @@
     <div class="row about">
       <div class="small-8 small-centered columns">
         <p>
-          I build and dissect stuff on the Internet, mostly as a cover for my own web addiction. I want to create beautiful things. 
+          I build and dissect stuff on the Internet. Check out my <a href="http://www.github.com/azharkhan/">Github</a>! I want to create beautiful experiences and products.
         </p>
         <p>
           I tend to tweet spontaneously about things that intrigue me and excite me. Check out some of my ramblings <a href="/talk">here.</a>
